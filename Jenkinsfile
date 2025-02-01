@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_USER = 'darshan180'
-        DOCKER_HUB_REPO = 'darshan180/astroids'
+        DOCKER_HUB_REPO = 'devrepo'
         IMAGE_NAME = 'nginx'
         CONTAINER_NAME = 'app'
         DOCKER_HUB_PASS = 'darsh@123'  
